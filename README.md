@@ -7,6 +7,8 @@ Revenue generated within a year
 
 
 Novypro:- https://www.novypro.com/project/airbnb-listings
+
+
 Tableau Public :- https://public.tableau.com/views/AirBnBListings_16999122721340/AirBnBDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # AirBnB 
